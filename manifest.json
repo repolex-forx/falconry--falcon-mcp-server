@@ -1,0 +1,43 @@
+{
+  "manifest_version": "1.0",
+  "org": "falconry",
+  "repo": "falcon-mcp-server",
+  "versions": [
+    {
+      "commit": "3cafe80225232845be8937af76f1dc6d6d99a3df",
+      "parsed_at": "2026-10-12T01:24:23.556256+00:00",
+      "filetree": "filetree/3cafe80225232845be8937af76f1dc6d6d99a3df.nq.gz",
+      "blobs": [
+        "blob/16d8fb02975a2211fdd4e5e371020b31239189a5.nq.gz",
+        "blob/4c0d0c3c9a737d9af5747fdb73ea2e4b19f7bb09.nq.gz",
+        "blob/7c690e0807924289be738a931bead02091c81c63.nq.gz",
+        "blob/26e40096fdd185582ece73136153eaf86a8f8f24.nq.gz",
+        "blob/67cdc4f766710f301d9b91c8966453520600cb85.nq.gz",
+        "blob/7cf5229c641022d01c0f0e3253bc706ecdda15fc.nq.gz",
+        "blob/9f232c02364928e4bbb44e34eb03b2551a3fa32e.nq.gz",
+        "blob/3825f840dd89175cb4e8a66482eddf3d1cd42e48.nq.gz",
+        "blob/9ff9f0dd845c00a5f6d3a9960075163f8f71d60a.nq.gz",
+        "blob/1202dae209c24d3739b290594e0b327c4647ba2c.nq.gz",
+        "blob/900ca82320c6069d3aa80b3a06d741ad7aa35adf.nq.gz",
+        "blob/af9090cd23518d3a0e462b5d68b3861f46f37f52.nq.gz",
+        "blob/b784afc5c74bd69cbd1bf0acb144fca351971894.nq.gz",
+        "blob/ea60a0c717f673f3a1f799c85b2a2322fc489355.nq.gz",
+        "blob/ab79fca2e0ac8fdee5855425d2345406e4e12bd4.nq.gz",
+        "blob/918fadfe0ee1fc00120465d1e7de9eeddde7f43d.nq.gz",
+        "blob/02d7443f3e15b2521ca46f6d11e00c4266134da9.nq.gz",
+        "blob/80734c1e20d7fa1c4ff0dbc430fe576d97b9487f.nq.gz",
+        "blob/580f87ed14ab2df2ab30fa6b85b0968ee004ecb7.nq.gz",
+        "blob/1a09eb70700cc5ea91ca60a19d76f619d9f0d2b1.nq.gz",
+        "blob/3ad4dc1224480cfb8ef2a3997b6d3ada2a23655c.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/492660eff59aeafa6f15e029a45cef5b371a80b2.nq.gz",
+        "blob/0d5bae39f80b35f52f0b8da4f793bfca1348d415.nq.gz",
+        "blob/622ec79a04e48f4ae7407654d0307ed21c4c0a9e.nq.gz",
+        "blob/0cee395fe2bab6a0eb281aaf2921a19b20f140d3.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
